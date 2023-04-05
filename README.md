@@ -1,5 +1,5 @@
 
-<h2 align="center">:computer: World-First-Website-Clone</h2>
+<h2 align="center">🌐 World-First-Website-Clone</h2>
 <hr>
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
